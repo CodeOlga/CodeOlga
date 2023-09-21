@@ -1,5 +1,5 @@
 # MeOnGitHub 
-## About Me 👋
+## About Me ![Alt text](image.png)
 
 Hi, I'm Olga, a full-stack student passionate about web development, especially Node.js. Excited to share my learning journey with the GitHub community.
 
