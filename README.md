@@ -22,5 +22,4 @@ I'm always eager to connect with fellow developers, learn from others, and explo
 
 Let's code, collaborate, and make the web a better place together! 🚀
 
-![Профильное изображение](<img src="./images/me.jpg" alt="Моя картинка" width="200" height="150">
-)
+![Профильное изображение](./images/me.jpg){width=200px height=150px}
