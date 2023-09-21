@@ -1,6 +1,5 @@
 # MeOnGitHub 
-## About Me                    ![Alt text](image.png)
-<img src="https://github.githubassets.com/images/icons/emoji/octocat.png" alt="Mona Octocat GitHub" width="24" height="24">
+## About Me  <img src="https://github.githubassets.com/images/icons/emoji/octocat.png" alt="Mona Octocat GitHub" width="32" height="32">
 Hi, I'm Olga, a full-stack student passionate about web development, especially Node.js. Excited to share my learning journey with the GitHub community.
 
 ### My Journey
