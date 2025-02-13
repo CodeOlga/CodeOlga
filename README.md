@@ -13,6 +13,7 @@ Hi, I'm Olga, a full-stack student passionate about web development, especially 
 - 🐱 Actively contribute to open-source projects, improving coding skills.
 - 🚀 Check out my projects and progress here.
 - 📖 Passionate about sharing knowledge through documentation and READMEs.
+- [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=CodeOlga)](https://github.com/anuraghazra/github-readme-stats)
 
 ### Connect with Me
 
