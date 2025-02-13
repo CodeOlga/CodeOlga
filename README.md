@@ -16,7 +16,7 @@ Hi, I'm Olga, a full-stack student passionate about web development, especially 
 
 ### GitHub Stats 
 
-<table align="center" width="100%">
+<table align="center" width=100%>
   <tr>
   <td>
   <a href="https://github.com/ViktorSvertoka/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=CodeOlga&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="CodeOlga github stats" /></a>
