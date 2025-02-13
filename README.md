@@ -27,6 +27,9 @@ Hi, I'm Olga, a full-stack student passionate about web development. Excited to 
   </tr>
 </table>
 
+
+![npm bundle size](https://img.shields.io/bundlephobia/:format/:packageName)
+
 ### Connect with Me
 
 I'm always eager to connect with fellow developers, learn from others, and explore new opportunities. Feel free to reach out to me here on GitHub to discuss all things tech and development!
