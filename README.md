@@ -8,12 +8,15 @@ Hi, I'm Olga, a full-stack student passionate about web development. Excited to 
 - 🌐 Love working with web tech like HTML, CSS, JavaScript, and React.
 - 📚 Lifelong learner staying up-to-date with industry trends and tools.
 
+<br/>
+
 ### GitHub Journey
 
 - 🐱 Actively contribute to open-source projects, improving coding skills.
 - 🚀 Check out my projects and progress here.
 - 📖 Passionate about sharing knowledge through documentation and READMEs.
 
+<br/>
 
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
@@ -25,6 +28,7 @@ Hi, I'm Olga, a full-stack student passionate about web development. Excited to 
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 
+<br/>
 
 ### GitHub Stats 
 
@@ -38,6 +42,8 @@ Hi, I'm Olga, a full-stack student passionate about web development. Excited to 
   </td>
   </tr>
 </table>
+
+<br/>
 
 ### Connect with Me
 
