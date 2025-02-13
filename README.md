@@ -19,10 +19,10 @@ Hi, I'm Olga, a full-stack student passionate about web development, especially 
 <table align="center">
   <tr>
   <td>
-  <a href="https://github.com/CodeOlga/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=CodeOlga&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="CodeOlga github stats" /></a>
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=CodeOlga&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="CodeOlga github stats" />
   </td>
   <td>
-  <a href="https://github.com/CodeOlga/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CodeOlga&layout=compact&theme=buefy&hide_border=true" /></a>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CodeOlga&layout=compact&theme=buefy&hide_border=true" />
   </td>
   </tr>
 </table>
